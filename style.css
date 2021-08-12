@@ -68,3 +68,8 @@ input::placeholder {
   background-color: rgb(163, 155, 155);
   border-radius: 10px;
 }
+@media (min-width: 300px) and (max-width: 720px) {
+  body {
+    padding: 40px;
+  }
+}
